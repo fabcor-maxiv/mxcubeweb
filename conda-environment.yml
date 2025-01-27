@@ -12,7 +12,7 @@ dependencies:
   # Runtime dependencies
   # ====================
 
-  - ffmpeg  # Not directly used by mxcube, but necessary for the video-streamer
+  # TODO - ffmpeg  # Not directly used by mxcube, but necessary for the video-streamer
   - python >=3.8,<3.12  # Make sure it matches `pyproject.toml`
 
   # `openldap` is necessary for `python-ldap` but can not be installed by pip or Poetry.

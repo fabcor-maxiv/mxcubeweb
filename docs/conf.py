@@ -115,12 +115,6 @@ extensions.append("sphinx.ext.napoleon")
 extensions.append("sphinx.ext.viewcode")
 
 
-# -- sphinxcontrib.autohttp.flask
-# https://sphinxcontrib-httpdomain.readthedocs.io
-
-extensions.append("sphinxcontrib.autohttp.flask")
-
-
 # -- Options for sphinx_last_updated_by_git
 # https://pypi.org/project/sphinx-last-updated-by-git/
 

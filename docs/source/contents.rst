@@ -11,5 +11,4 @@ Contents:
     index.md
     config/index
     dev/index
-    rest-api/index
     *
